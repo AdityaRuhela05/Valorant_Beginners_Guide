@@ -11,7 +11,7 @@
 
    While the placeholder is unchanged, NO analytics script is loaded and
    NO events are sent. */
-const GA_MEASUREMENT_ID = "G-XXXXXXXXXX"; // <-- PASTE YOUR ID HERE
+const GA_MEASUREMENT_ID = "G-GLMVBWR8JN"; // <-- PASTE YOUR ID HERE
 
 /* A real ID starts with "G-" and is not the placeholder. */
 const analyticsEnabled =
